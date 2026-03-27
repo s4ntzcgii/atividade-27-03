@@ -1,1 +1,7 @@
 # atividade-27-03
+
+Este projeto é uma landing page de turismo chamada ChileVenture, desenvolvida utilizando HTML e CSS. O objetivo da página é apresentar destinos turísticos no Chile de forma atrativa, destacando paisagens, experiências e pacotes de viagem para o público.
+A página possui um menu de navegação no topo com links para diferentes seções, além de um banner principal com imagem de destaque e uma chamada convidativa para explorar o país. Também conta com uma barra de busca visual onde o usuário pode inserir destino, número de pessoas e datas da viagem.
+Ao longo do site, são apresentadas diversas seções, como destinos de classe mundial organizados em formato de grade, pacotes populares com informações e preços, atividades de aventura disponíveis, ofertas especiais com descontos e uma galeria de fotos compartilhadas por viajantes. No final, há um rodapé com informações de contato, links úteis e um campo para inscrição em newsletter.
+O layout foi construído com o uso de recursos como Flexbox e Grid, permitindo uma organização visual clara e moderna dos elementos. As imagens desempenham um papel importante na composição da página, ajudando a transmitir a proposta turística do projeto.
+Para executar o projeto, basta manter todos os arquivos na mesma pasta e abrir o arquivo index.html em qualquer navegador. Trata-se de um projeto estático, focado na estrutura e no design da interface.
